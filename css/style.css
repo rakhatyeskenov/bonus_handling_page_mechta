@@ -480,10 +480,11 @@ main {
     -o-transition: all 0.3s;
     transition: all 0.3s;
   }
-  .contacts__wrap--active {
+  .contacts__wrap__active {
     opacity: 1;
     visibility: visible;
   }
+
   .contacts__phone {
     font-size: 12px;
     font-weight: 400;
