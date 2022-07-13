@@ -467,6 +467,7 @@ a.alink {
   }
   a.alink {
     pointer-events: auto;
+    color: #322F38;
   }
 }
 @media (max-width: 640px) {
