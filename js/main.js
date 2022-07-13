@@ -12,6 +12,3 @@ document.addEventListener('click', function(event) {
       document.getElementById('two').classList.remove("contacts__wrap__active");
     }
 });
-
-
-
